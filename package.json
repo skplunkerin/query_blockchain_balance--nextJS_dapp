@@ -1,0 +1,22 @@
+{
+  "name": "moralis_query_blockchain_balance",
+  "version": "0.0.1",
+  "description": "Query Blockchain balance - Moralis web3 tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "moralis": "^2.7.2",
+    "next": "^13.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
