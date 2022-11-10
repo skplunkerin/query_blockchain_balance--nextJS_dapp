@@ -1,13 +1,13 @@
 {
   "name": "moralis_query_blockchain_balance",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Query Blockchain balance - Moralis web3 tutorial",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
+    "lint": "next lint",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
